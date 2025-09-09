@@ -7,6 +7,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <View style={styles.mainbox}>
         <Text style={styles.Text}>Changes you make will automatically reload.</Text>
+      <Text style={styles.Text}>Shake your phone to open the developer menu.</Text>
       </View>
     </View>
   );
